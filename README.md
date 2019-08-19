@@ -3,4 +3,7 @@ I am a Data Scientist / Solution Architect with 15 years  of experience and supp
 
 My personal qualities consist of working as an effective team player. I work well under pressure and have capacity to work on many projects concurrently with greater interest in company’s advancement and my career development.
 
-I have data science implementation experiences with Algo-Trading, Logistics, Cyber Security, Finance and Banking industries
+I have data science implementation experiences with Algo-Trading, Logistics, Cyber Security, Finance and Banking industries.
+
+With Regards,
+Smithish Jose
